@@ -1,4 +1,3 @@
 
 # movie-recomdation-system
-https://images.wallpapersden.com/image/download/johnny-depp-in-pirates-of-the-caribbean_aWVmbG2UmZqaraWkpJRma21lrWZlZ24.jpg
-![Screenshot 2022-10-31 101846](https://user-images.githubusercontent.com/99608924/198940005-6078b12e-226b-404e-9754-04157c18c19c.png)
+![teahub io-pirates-of-the-caribbean-1738283](https://user-images.githubusercontent.com/99608924/198942396-5b078a82-7576-4be1-8afe-9d5486226f2f.jpg)
